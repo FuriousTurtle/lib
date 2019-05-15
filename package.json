@@ -1,0 +1,24 @@
+{
+  "name": "xuc-test-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cti.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuriousTurtle/lib.git"
+  },
+  "keywords": [
+    "xuc",
+    "test",
+    "app"
+  ],
+  "author": "tony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FuriousTurtle/lib/issues"
+  },
+  "homepage": "https://github.com/FuriousTurtle/lib#readme"
+}
