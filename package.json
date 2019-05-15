@@ -2,7 +2,7 @@
   "name": "xuc-test-apps",
   "version": "1.1.0",
   "description": "",
-  "main": "cti.js",
+  "main": "xccti/cti.module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
